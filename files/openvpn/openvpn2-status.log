@@ -1,0 +1,14 @@
+OpenVPN CLIENT LIST
+Updated,Sat Nov  8 13:04:59 2014
+Common Name,Real Address,Bytes Received,Bytes Sent,Connected Since
+dr-site,54.164.18.68:38547,247719546,993521174,Wed Oct 22 04:20:24 2014
+ROUTING TABLE
+Virtual Address,Common Name,Real Address,Last Ref
+10.11.1.0/24,dr-site,54.164.18.68:38547,Wed Oct 22 04:20:25 2014
+10.11.2.134C,dr-site,54.164.18.68:38547,Sat Nov  8 13:04:43 2014
+10.7.0.6,dr-site,54.164.18.68:38547,Sat Nov  8 12:47:35 2014
+10.11.2.0/24,dr-site,54.164.18.68:38547,Wed Oct 22 04:20:25 2014
+10.11.0.0/24,dr-site,54.164.18.68:38547,Wed Oct 22 04:20:25 2014
+GLOBAL STATS
+Max bcast/mcast queue length,0
+END

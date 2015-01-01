@@ -1,0 +1,65 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 39 (0x27)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=NC, L=CALIFORNIA, O=OSCM, CN=vpc_VPN/emailAddress=support@os-cm.info
+        Validity
+            Not Before: Sep 18 08:30:58 2014 GMT
+            Not After : Sep 15 08:30:58 2024 GMT
+        Subject: C=US, ST=NC, O=OSCM, CN=test/emailAddress=support@os-cm.info
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bd:b5:ed:f5:17:48:fc:f6:c3:6b:a7:e7:0d:53:
+                    81:67:f1:f4:f6:42:f6:1e:30:77:25:72:e6:bc:2c:
+                    23:bd:a1:4a:d6:bc:0c:bd:ee:2e:23:3f:49:4b:44:
+                    4f:ac:2f:d9:d9:6c:51:e0:be:24:c3:4e:f4:9d:f6:
+                    9b:fb:23:de:eb:82:b6:03:8d:08:98:72:65:93:f4:
+                    33:87:d8:28:34:f9:b7:cb:82:eb:6c:0c:19:41:4d:
+                    13:47:d7:c2:08:d5:02:9d:53:2b:b1:b0:1b:ef:86:
+                    27:15:0e:3a:c7:97:74:4c:bf:d3:21:c2:d4:53:de:
+                    42:7d:d1:50:ab:3f:9f:69:13
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                0D:AC:D3:0B:A5:B0:9D:6F:B1:08:41:92:A3:C5:A1:76:13:1C:E8:E1
+            X509v3 Authority Key Identifier: 
+                keyid:30:D0:C5:44:8A:CB:88:D3:EC:18:54:33:A9:C4:79:3B:EA:1A:61:44
+                DirName:/C=US/ST=NC/L=CALIFORNIA/O=OSCM/CN=vpc_VPN/emailAddress=support@os-cm.info
+                serial:80:8B:6F:BB:7F:14:9B:87
+
+    Signature Algorithm: md5WithRSAEncryption
+        12:b3:7e:ca:82:2d:f1:d5:34:f3:87:cb:1e:92:57:48:a9:c9:
+        db:39:7b:63:bd:4b:92:f8:32:cf:da:5e:09:82:78:29:b1:37:
+        d6:5c:99:19:6c:25:96:04:ed:ee:f2:fb:6b:50:ec:f3:c6:3e:
+        32:ad:b4:10:80:bf:c7:51:7d:ad:e0:cb:38:51:1a:13:28:03:
+        4c:0d:1f:39:1c:4a:e6:37:23:c6:92:4d:a1:ce:55:ae:d6:37:
+        e4:63:ff:25:c4:3c:93:2f:3a:45:73:1b:35:9e:f5:58:08:15:
+        99:86:f3:9a:50:2d:7d:11:ae:4c:5b:2a:ed:30:38:a6:cd:0f:
+        2f:7c
+-----BEGIN CERTIFICATE-----
+MIIDSjCCArOgAwIBAgIBJzANBgkqhkiG9w0BAQQFADBzMQswCQYDVQQGEwJVUzEL
+MAkGA1UECBMCTkMxEzARBgNVBAcTCkNBTElGT1JOSUExDTALBgNVBAoTBE9TQ00x
+EDAOBgNVBAMUB3ZwY19WUE4xITAfBgkqhkiG9w0BCQEWEnN1cHBvcnRAb3MtY20u
+aW5mbzAeFw0xNDA5MTgwODMwNThaFw0yNDA5MTUwODMwNThaMFsxCzAJBgNVBAYT
+AlVTMQswCQYDVQQIEwJOQzENMAsGA1UEChMET1NDTTENMAsGA1UEAxMEdGVzdDEh
+MB8GCSqGSIb3DQEJARYSc3VwcG9ydEBvcy1jbS5pbmZvMIGfMA0GCSqGSIb3DQEB
+AQUAA4GNADCBiQKBgQC9te31F0j89sNrp+cNU4Fn8fT2QvYeMHclcua8LCO9oUrW
+vAy97i4jP0lLRE+sL9nZbFHgviTDTvSd9pv7I97rgrYDjQiYcmWT9DOH2Cg0+bfL
+gutsDBlBTRNH18II1QKdUyuxsBvvhicVDjrHl3RMv9MhwtRT3kJ90VCrP59pEwID
+AQABo4IBBDCCAQAwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBH
+ZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFA2s0wulsJ1vsQhBkqPFoXYT
+HOjhMIGlBgNVHSMEgZ0wgZqAFDDQxUSKy4jT7BhUM6nEeTvqGmFEoXekdTBzMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCTkMxEzARBgNVBAcTCkNBTElGT1JOSUExDTAL
+BgNVBAoTBE9TQ00xEDAOBgNVBAMUB3ZwY19WUE4xITAfBgkqhkiG9w0BCQEWEnN1
+cHBvcnRAb3MtY20uaW5mb4IJAICLb7t/FJuHMA0GCSqGSIb3DQEBBAUAA4GBABKz
+fsqCLfHVNPOHyx6SV0ipyds5e2O9S5L4Ms/aXgmCeCmxN9ZcmRlsJZYE7e7y+2tQ
+7PPGPjKttBCAv8dRfa3gyzhRGhMoA0wNHzkcSuY3I8aSTaHOVa7WN+Rj/yXEPJMv
+OkVzGzWe9VgIFZmG85pQLX0RrkxbKu0wOKbNDy98
+-----END CERTIFICATE-----
